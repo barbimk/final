@@ -1,0 +1,49 @@
+body{
+    background-image:url(http://img.shia-labeouf.biz/2015/08/24/black-makeup-vanity-with-mirror-l-eed8cd6c81ca7825.jpg);
+    background-size:100%;
+    background-repeat: no-repeat;
+    text-align:center;
+}
+
+h1{
+    color:gray;
+    text-shadow:black;
+}
+#main {
+    padding:10px 10px 10px 10px;
+    background-color:pink;
+    font-family:Arial;
+    opacity:0.8;
+    width:500px;
+    margin:20px auto;
+    border-radius:20px;
+    color:white;
+}
+
+nav a {
+    display:inline;
+    text-decoration:none;
+    padding:20px;
+    font-size:20px;
+    color:white;
+}
+
+nav{
+     margin-bottom:10px;
+}
+
+#content{
+    background-color:gray;
+    opacity:0.8;
+    width:500px;
+    border-radius:20px;
+    margin:20px auto;
+}
+
+#content2{
+    background-color:pink;
+    opacity:0.8;
+    width:500px;
+    margin:20px auto;
+    border-radius:20px;
+}
